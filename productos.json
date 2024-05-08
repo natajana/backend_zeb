@@ -1,0 +1,44 @@
+[
+    {
+        "sku": "SKU123",
+        "name": "Mesa de centro",
+        "price": 120.99,
+        "brand": "FurnitureCo",
+        "description": "Una mesa de centro elegante y moderna para tu sala de estar. Fabricada con madera de alta calidad."
+    },
+    {
+        "sku": "SKU456",
+        "name": "Sill\u00f3n reclinable",
+        "price": 299.99,
+        "brand": "ComfyLiving",
+        "description": "Un sill\u00f3n reclinable c\u00f3modo y lujoso para relajarte despu\u00e9s de un largo d\u00eda. Tapizado en cuero sint\u00e9tico duradero."
+    },
+    {
+        "sku": "SKU789",
+        "name": "L\u00e1mpara de pie",
+        "price": 89.95,
+        "brand": "BrightIdeas",
+        "description": "Una l\u00e1mpara de pie moderna y elegante para iluminar tu sala de estar. Con un dise\u00f1o minimalista y regulador de intensidad."
+    },
+    {
+        "sku": "SKU101",
+        "name": "Juego de s\u00e1banas",
+        "price": 39.99,
+        "brand": "DreamBedding",
+        "description": "Un juego de s\u00e1banas suaves y c\u00f3modas para tu cama. Fabricadas con algod\u00f3n 100% de alta calidad para garantizar una noche de sue\u00f1o reparador."
+    },
+    {
+        "sku": "SKU202",
+        "name": "Set de cuchillos",
+        "price": 49.99,
+        "brand": "KitchenMaster",
+        "description": "Un set de cuchillos de cocina de acero inoxidable de alta calidad para cortar y picar tus ingredientes con facilidad. Incluye cuchillos para todas las necesidades."
+    },
+    {
+        "sku": "SKU111",
+        "name": "atril ni\u00f1o",
+        "price": 15.09,
+        "brand": "artel ",
+        "description": "Atril de ni\u00f1o chico :)"
+    }
+]
