@@ -12,3 +12,33 @@ El proyecto está estructurado de la siguiente manera:
 - models.py: Archivo que contiene las definiciones de los tipos GraphQL, las consultas y las mutaciones.
 - utils.py: Archivo con funciones auxiliares para cargar y guardar datos en un archivo JSON.
 - productos.json: Archivo JSON que actúa como una base de datos de productos.
+
+##Eejmplo de uso de queryGraphql
+##insertar product
+mutation {
+  insertProduct(
+    sku: "SKU111",
+    name: "atril niño",
+    price: 15.09,
+    brand: "artel ",
+    description: "Atril de niño chico :)")
+  {
+    product {
+      sku
+      name
+      price
+      brand
+      description
+    }
+  }
+}
+#consultar productos
+query {
+  products {
+    sku
+    name
+    price
+    brand
+    description
+  }
+}
