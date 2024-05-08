@@ -13,8 +13,8 @@ El proyecto está estructurado de la siguiente manera:
 - utils.py: Archivo con funciones auxiliares para cargar y guardar datos en un archivo JSON.
 - productos.json: Archivo JSON que actúa como una base de datos de productos.
 
-##Eejmplo de uso de queryGraphql
-##insertar product
+## Ejemplo de uso de queryGraphql
+## insertar product
 mutation {
   insertProduct(
     sku: "SKU111",
@@ -32,7 +32,8 @@ mutation {
     }
   }
 }
-#consultar productos
+
+## consultar productos
 query {
   products {
     sku
