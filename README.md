@@ -17,11 +17,11 @@ El proyecto está estructurado de la siguiente manera:
 ## insertar product
 mutation {
   insertProduct(
-    sku: "SKU111",
-    name: "atril niño",
-    price: 15.09,
+    sku: "SKU999",
+    name: "atril adulto",
+    price: 24.09,
     brand: "artel ",
-    description: "Atril de niño chico :)")
+    description: "Atril de adulto :)")
   {
     product {
       sku
