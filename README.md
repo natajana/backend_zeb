@@ -1,9 +1,9 @@
 # Proyecto de Gestión de Productos con GraphQL y Flask
 Este proyecto implementa un sistema de gestión de productos utilizando Flask para el backend y GraphQL para la interfaz de consulta y mutación. Permite la inserción y consulta de productos a través de una API GraphQL.
 ## Uso
-Asegúrate de tener Python y pip instalados en tu sistema.
+Asegúrate de tener Python3 instalado en tu sistema.
 Ejecuta el archivo app.py para iniciar el servidor Flask:
-python app.py
+python3 app.py
 
 ## Estructura del Proyecto
 El proyecto está estructurado de la siguiente manera:
